@@ -1,20 +1,8 @@
 ### Hi 👋
 
-Accomplished self-starter with a passion for customer-centric solutions that support business goals. Recognized for tenacious can-do attitude, ability to rapidly assimilate and leverage technological skills, creative and visionary approach to solving problems, and for motivating cohesive teams across functions. History of collaborating as an integral member of diverse remote and local teams across the globe.
+I am a self-motivated individual with a passion for customer-centric solutions that help businesses reach their goals. I am known for my tenacious can-do attitude, my ability to quickly learn and use new technologies, my creative and visionary approach to problem-solving, and my ability to motivate teams of all sizes. I have experience collaborating with remote and local teams around the world. 
 
-Depth of expertise in a broad range of languages, frameworks, tools, and methods. Specializations in JavaScript, React.js, Vue.js, Svelte, Typescript, Web3/Blockchain, GraphQL + Apollo, CSS3, HTML5, CSS-in-JS, styled-components, Emotion, Next.js, Gatsby.js, jQuery, Backbone.js, Node.js, DevOps, PHP, SASS, Less, npm/Yarn, Webpack, Grunt, and Gulp.
-
-Core Competencies:
-- Mobile & Web Applications;
-- Responsive Web Interfaces;
-- SaaS Applications;
-- Large-Scale User Interfaces;
-- Dapps Decentralized Applications;
-- Crypto Currencies & Blockchain;
-- User-Friendly Design;
-- Reusable Components;
-- User Interfaces;
-- iOS/Android Hybrid Applications.
+I have a depth of knowledge in a wide range of coding languages, frameworks, tools, and methods. My specializations include JavaScript, React.js, Vue.js, Svelte, Typescript, Web3/Blockchain, Dapps, GraphQL + Apollo, CSS3, HTML5, CSS-in-JS, styled-components, Emotion, Next.js, Gatsby.js, jQuery, Backbone.js, Node.js, DevOps, PHP, SASS, Less, npm/Yarn, Webpack, Grunt, and Gulp. My core competencies are mobile and web applications, responsive web interfaces, SaaS applications, large-scale user interfaces, Dapps decentralized applications, cryptocurrency and blockchain, user-friendly design, reusable components, user interfaces, and iOS/Android.
 
 <!--
 **xdemocle/xdemocle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
