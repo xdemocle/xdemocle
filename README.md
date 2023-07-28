@@ -4,6 +4,8 @@ I am a self-motivated individual with a passion for customer-centric solutions t
 
 I have a depth of knowledge in a wide range of coding languages, frameworks, tools, and methods. My specializations include JavaScript, React.js, Vue.js, Svelte, Typescript, Web3/Blockchain, Dapps, GraphQL + Apollo, CSS3, HTML5, CSS-in-JS, styled-components, Emotion, Next.js, Gatsby.js, jQuery, Backbone.js, Node.js, DevOps, PHP, SASS, Less, npm/Yarn, Webpack, Grunt, and Gulp. My core competencies are mobile and web applications, responsive web interfaces, SaaS applications, large-scale user interfaces, Dapps decentralized applications, cryptocurrency and blockchain, user-friendly design, reusable components, user interfaces, and iOS/Android.
 
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <!--
 **xdemocle/xdemocle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
