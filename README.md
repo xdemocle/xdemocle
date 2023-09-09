@@ -4,6 +4,8 @@ I am a front-end engineer and tech lead with over 10 years of experience in deli
 
 As a tech lead, I oversee the technical aspects of front-end development, provide guidance and support to a team of engineers, and actively contribute to coding projects. I also drive innovation and deliver high-quality front-end solutions that meet the needs and expectations of SHIBA INU and its users. Some of my key skills include React, TypeScript, Web3.js, GraphQL, Tailwind CSS, and Crypto Wallets. I am always eager to learn new technologies and methods, and to collaborate with remote and local teams around the world. My goal is to create customer-centric solutions that help businesses reach their goals and empower users with web3 and blockchain.
 
+I have a depth of knowledge in a wide range of coding languages, frameworks, tools, and methods. My specializations include JavaScript, React.js, Vue.js, Svelte, Typescript, Web3/Blockchain, Dapps, GraphQL + Apollo, CSS3, HTML5, CSS-in-JS, styled-components, Emotion, Next.js, Gatsby.js, jQuery, Backbone.js, Node.js, DevOps, PHP, SASS, Less, npm/Yarn, Webpack, Grunt, and Gulp. My core competencies are mobile and web applications, responsive web interfaces, SaaS applications, large-scale user interfaces, Dapps decentralized applications, cryptocurrency and blockchain, user-friendly design, reusable components, user interfaces, and iOS/Android.
+
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--
