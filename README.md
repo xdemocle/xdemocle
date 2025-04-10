@@ -1,13 +1,15 @@
 ### Hi 👋
 
-I am a software engineer front-end biased, and tech lead with over 10 years of experience in delivering web solutions for various industries and domains. I have a passion for web3 and blockchain technologies, and I have successfully integrated them into several projects as a lead front-end web3 engineer. I work as a technical team lead at The Web3 Ninja, a one-stop company for your Blockchain frontend integration.
+I’m a seasoned software engineer with two decades of experience. As a Lead Full-Stack Engineer, I drive the future of blockchain and Web3. From South Italy to the global stage, I specialize in crafting decentralized applications (DApps) that transform user experiences: think tokenized assets, DeFi platforms, and smart contract integrations. My recent projects have delivered millions in liquidity, a 20% boost in user engagement, and peak concurrency milestones, including 5M+ visitors on initiatives like SHIBA INU. 
 
-As a tech lead, I oversee the technical aspects of front-end development, provide guidance and support to a team of engineers, and actively contribute to coding projects. I also drive innovation and deliver high-quality front-end solutions that meet the needs and expectations of a stealth web3 company and its users. Some of my key skills include React, TypeScript, Web3.js, GraphQL, Tailwind CSS, and Crypto Wallets. I am always eager to learn new technologies and methods, and to collaborate with remote and local teams around the world. My goal is to create customer-centric solutions that help businesses reach their goals and empower users with web3 and blockchain.
+My Toolkit:
+- *Full-Stack Mastery*: React, React Native, Svelte, TypeScript, Next.js, Remix, GraphQL, Node.js, Web3.js, PHP, Redux, Tailwind CSS, Apollo, Gatsby.js 
+- *Blockchain Expertise*: Ethereum, Solana, EVM compatibles, token creation, Smart Contracts (Solidity), Solana Programs 
+- *DevOps & Cloud*: AWS (EC2, S3, CDN), GCP, Docker, CI/CD, GIT (GitHub, GitLab, BitBucket) 
+- *Databases*: SQL, NoSQL, Postgres, MySQL, MongoDB, Redis 
+- *Soft Skills*: Leadership, Mentorship, Teamwork, Communication, Decision-Making, Resilience 
 
-I have a depth of knowledge in a wide range of coding languages, frameworks, tools, and methods. My specializations include JavaScript, React.js, Vue.js, Svelte, Typescript, Web3/Blockchain, Dapps, GraphQL + Apollo, CSS3, HTML5, CSS-in-JS, styled-components, Emotion, Next.js, Gatsby.js, jQuery, Backbone.js, Node.js, DevOps, PHP, SASS, Less, npm/Yarn, Webpack, Grunt, and Gulp. My core competencies are mobile and web applications, responsive web interfaces, SaaS applications, large-scale user interfaces, Dapps decentralized applications, cryptocurrency and blockchain, user-friendly design, reusable components, user interfaces, and iOS/Android.
-
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+I thrive at the intersection of code and impact, mentoring teams to success, boosting code quality, and slashing tech debt. Based in the USA (no W2, yes C2C), I’m available for contracts in Italy, Europe/EMEA, Dubai/UAE, and beyond. Let’s build something groundbreaking together!
 <!--
 **xdemocle/xdemocle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
