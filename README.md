@@ -1,4 +1,6 @@
-### Hi 👋
+### Hello, visitor! 👋
+
+**Rocco's GitHub  profile**
 
 I'm a seasoned software engineer with two decades of experience. As a Lead Full-Stack Engineer, I define the direction for blockchain and Web3. From South Italy to the globe, I assist in developing decentralized applications (DApps) that redefine user experiences: tokenized assets, DeFi platforms, and smart contract integrations. My recent projects have delivered millions in liquidity, a 20% boost in user engagement, and peak concurrency milestones, including 5M+ visitors on initiatives like SHIBA INU.
 
@@ -9,7 +11,9 @@ My Toolkit:
 - *Databases*: SQL, NoSQL, Postgres, MySQL, MongoDB, Redis 
 - *Soft Skills*: Leadership, Mentorship, Teamwork, Communication, Decision-Making, Resilience 
 
-I thrive at the intersection of code and impact, mentoring teams to success, boosting code quality, and slashing tech debt. Based in the USA (no W2, yes C2C), I’m available for contracts in Italy, Europe/EMEA, Dubai/UAE, and beyond. Let’s build something groundbreaking together!
+I thrive at the intersection of code and impact, mentoring teams to success, boosting code quality, and slashing tech debt. Based in Italy, but I work also through my LLC in the USA (no W2, yes C2C), and together with my self-employed Italian company. I’m available for contracts in Italy, Europe/EMEA, Dubai/UAE, and beyond.
+
+📫 How to reach me: [https://rocco.me](https://rocco.me)
 
 <!--
 **xdemocle/xdemocle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
