@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
   <title>Rocco's LinkedIn SSI Micro-tips</title>
-  <link>https://www.linkedin.com/in/rocco</link>
+  <link>https://www.linkedin.com/in/roccorusso</link>
   <description>Micro-tips to improve your LinkedIn SSI</description>
+
+  <atom:link href="https://raw.githubusercontent.com/xdemocle/xdemocle/refs/heads/master/1-20.xml" rel="self" type="application/rss+xml" />
 
   <item>
     <title>Micro-tip 1: Polish Your Profile Picture</title>
