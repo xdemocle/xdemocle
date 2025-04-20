@@ -149,13 +149,14 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 11</title>
-            <link>https://www.example.com/micro-tip-11</link>
+            <link></link>
             <description>
                 <![CDATA[
                 Headline = You in One Line<br/><br/>
                 Make it short but impactful. Think movie tagline, not user manual.<br/><br/>
                 Your title should tell people what you do and why they should care.<br/><br/>
                 Need help refining yours? Just ask.
+                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
                 ]]>
             </description>
             <guid isPermaLink="false">011</guid>
