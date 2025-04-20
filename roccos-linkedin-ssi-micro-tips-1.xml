@@ -9,7 +9,6 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 1</title>
-            <link>https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png</link>
             <description>
                 <![CDATA[
                 Polish Your Profile Picture<br/><br/>
@@ -19,11 +18,11 @@
                 ]]>
             </description>
             <guid isPermaLink="false">001</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 2</title>
-            <link>https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png</link>
             <description>
                 <![CDATA[
                 Write a Killer Headline<br/><br/>
@@ -33,26 +32,25 @@
                 ]]>
             </description>
             <guid isPermaLink="false">002</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 3</title>
-            <link>https://www.example.com/micro-tip-3</link>
             <description>
                 <![CDATA[
                 Banner Image = Free Billboard<br/><br/>
                 Your banner is your personal marketing space. Use it!<br/><br/>
                 Add a clean, relevant image or a message about what you do.<br/><br/>
                 Want suggestions? Ask me anything!
-<img src="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" alt="roccos-linkedin-ssi-micro-tips-banner" width="1024" height="1024" />
                 ]]>
             </description>
             <guid isPermaLink="false">003</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 4</title>
-            <link>https://www.example.com/micro-tip-4</link>
             <description>
                 <![CDATA[
                 About Section: Don’t Make It a Résumé<br/><br/>
@@ -62,11 +60,11 @@
                 ]]>
             </description>
             <guid isPermaLink="false">004</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 5</title>
-            <link>https://www.example.com/micro-tip-5</link>
             <description>
                 <![CDATA[
                 List Your Skills (And Endorse Others)<br/><br/>
@@ -76,11 +74,11 @@
                 ]]>
             </description>
             <guid isPermaLink="false">005</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 6</title>
-            <link>https://www.example.com/micro-tip-6</link>
             <description>
                 <![CDATA[
                 Request Recommendations<br/><br/>
@@ -90,11 +88,11 @@
                 ]]>
             </description>
             <guid isPermaLink="false">006</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 7</title>
-            <link>https://www.example.com/micro-tip-7</link>
             <description>
                 <![CDATA[
                 Post Once a Week<br/><br/>
@@ -104,11 +102,11 @@
                 ]]>
             </description>
             <guid isPermaLink="false">007</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 8</title>
-            <link>https://www.example.com/micro-tip-8</link>
             <description>
                 <![CDATA[
                 Comment Like a Human<br/><br/>
@@ -118,11 +116,11 @@
                 ]]>
             </description>
             <guid isPermaLink="false">008</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 9</title>
-            <link>https://www.example.com/micro-tip-9</link>
             <description>
                 <![CDATA[
                 Connect With Intention<br/><br/>
@@ -132,11 +130,11 @@
                 ]]>
             </description>
             <guid isPermaLink="false">009</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 10</title>
-            <link>https://www.example.com/micro-tip-10</link>
             <description>
                 <![CDATA[
                 Use Keywords Like a Dev Uses Git<br/><br/>
@@ -146,6 +144,7 @@
                 ]]>
             </description>
             <guid isPermaLink="false">010</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
@@ -160,11 +159,11 @@
                 ]]>
             </description>
             <guid isPermaLink="false">011</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 12</title>
-            <link>https://www.example.com/micro-tip-12</link>
             <description>
                 <![CDATA[
                 Pin a Top Post<br/><br/>
@@ -174,11 +173,11 @@
                 ]]>
             </description>
             <guid isPermaLink="false">012</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 13</title>
-            <link>https://www.example.com/micro-tip-13</link>
             <description>
                 <![CDATA[
                 Feature Your Projects<br/><br/>
@@ -188,11 +187,11 @@
                 ]]>
             </description>
             <guid isPermaLink="false">013</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 14</title>
-            <link>https://www.example.com/micro-tip-14</link>
             <description>
                 <![CDATA[
                 Celebrate Milestones<br/><br/>
@@ -202,11 +201,11 @@
                 ]]>
             </description>
             <guid isPermaLink="false">014</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 15</title>
-            <link>https://www.example.com/micro-tip-15</link>
             <description>
                 <![CDATA[
                 Join Relevant Groups<br/><br/>
@@ -216,11 +215,11 @@
                 ]]>
             </description>
             <guid isPermaLink="false">015</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 16</title>
-            <link>https://www.example.com/micro-tip-16</link>
             <description>
                 <![CDATA[
                 Be Curious in Comments<br/><br/>
@@ -230,11 +229,11 @@
                 ]]>
             </description>
             <guid isPermaLink="false">016</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 17</title>
-            <link>https://www.example.com/micro-tip-17</link>
             <description>
                 <![CDATA[
                 Engage on Mobile Too<br/><br/>
@@ -244,6 +243,7 @@
                 ]]>
             </description>
             <guid isPermaLink="false">017</guid>
+            <media:thumbnail url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />
         </item>
 
     </channel>
