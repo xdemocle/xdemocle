@@ -9,7 +9,7 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 1</title>
-            <link>https://www.example.com/micro-tip-1</link>
+            <link>https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png</link>
             <description>
                 <![CDATA[
                 Polish Your Profile Picture<br/><br/>
@@ -23,7 +23,7 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 2</title>
-            <link>https://www.example.com/micro-tip-2</link>
+            <link>https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png</link>
             <description>
                 <![CDATA[
                 Write a Killer Headline<br/><br/>
@@ -44,6 +44,7 @@
                 Your banner is your personal marketing space. Use it!<br/><br/>
                 Add a clean, relevant image or a message about what you do.<br/><br/>
                 Want suggestions? Ask me anything!
+<img src="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" alt="roccos-linkedin-ssi-micro-tips-banner" width="1024" height="1024" />
                 ]]>
             </description>
             <guid isPermaLink="false">003</guid>
