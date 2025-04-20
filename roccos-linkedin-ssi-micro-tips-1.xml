@@ -1,295 +1,264 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">  
-  <xsl:template match="root">
-    <html>
-      <head></head>
-       <body>
-         <xsl:for-each select="text">
-           <p align="center">
-              <xsl:value-of select="." />
-           </p>
-         </xsl:for-each>
-       </body>
-    </html>
-  </xsl:template>
-</xsl:stylesheet>
-    
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Rocco's LinkedIn SSI Micro-Posts</title>
-        <link>https://www.linkedin.com/in/roccorusso/</link>
-        <description>Rocco's LinkedIn SSI Micro-Posts</description>
-        <atom:link href="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-1.xml" rel="self" type="application/rss+xml" />
-        <language>en</language>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en-US">
+	<link rel="alternate" type="text/html" href="https://www.linkedin.com/in/roccorusso/" />
+	<id>https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-1.xml</id>
+	<link rel="self" type="application/atom+xml" href="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-1.xml" />
+  <title type="text">Rocco's LinkedIn SSI Micro-Posts</title>
+  <subtitle type="text">Rocco's LinkedIn SSI Micro-Posts</subtitle>
+  <language>en</language>
 
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 1</title>
-             <link></link>
-             <description>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 1</title>
+       <link></link>
+       <content type="html">
+          <![CDATA[
+          Polish Your Profile Picture<br/><br/>
+          You wouldn't show up to an interview in your pajamas (hopefully). Your profile photo is your first impression.<br/><br/>
+          Make it clear, professional, and smile like you just passed all your unit tests on the first try.<br/><br/>
+          Follow me or drop a message if you’re unsure about your current photo!
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>001</id>
+  </entry>
 
-                <![CDATA[
-                Polish Your Profile Picture<br/><br/>
-                You wouldn't show up to an interview in your pajamas (hopefully). Your profile photo is your first impression.<br/><br/>
-                Make it clear, professional, and smile like you just passed all your unit tests on the first try.<br/><br/>
-                Follow me or drop a message if you’re unsure about your current photo!
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">001</guid>
-        </item>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 2</title>
+       <link></link>
+       <content type="html">
+            <![CDATA[
+          Write a Killer Headline<br/><br/>
+          "Software Engineer" is fine. "JavaScript Wizard turning coffee into code" is better.<br/><br/>
+          Make your headline punchy and specific. Show some personality.<br/><br/>
+          Need a headline refresh? Connect with me or ping me.
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>002</id>
+  </entry>
 
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 2</title>
-             <link></link>
-             <description>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 3</title>
+       <link></link>
+       <content type="html">
+            <![CDATA[
+          Banner Image = Free Billboard<br/><br/>
+          Your banner is your personal marketing space. Use it!<br/><br/>
+          Add a clean, relevant image or a message about what you do.<br/><br/>
+          Want suggestions? Ask me anything!
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>003</id>
+      
+  </entry>
 
-                <![CDATA[
-                Write a Killer Headline<br/><br/>
-                "Software Engineer" is fine. "JavaScript Wizard turning coffee into code" is better.<br/><br/>
-                Make your headline punchy and specific. Show some personality.<br/><br/>
-                Need a headline refresh? Connect with me or ping me.
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">002</guid>
-        </item>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 4</title>
+       <link></link>
+       <content type="html">
+            <![CDATA[
+          About Section: Don’t Make It a Résumé<br/><br/>
+          Make it a story. Why do you code? What problems do you love solving?<br/><br/>
+          Make it human. Not robotic. (Unless you're a robot. Then carry on.)<br/><br/>
+          Follow me for more tips like this!
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>004</id>
+      
+  </entry>
 
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 3</title>
-             <link></link>
-             <description>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 5</title>
+       <link></link>
+       <content type="html">
+            <![CDATA[
+          List Your Skills (And Endorse Others)<br/><br/>
+          Don’t be shy. Show off those TypeScript, React, and Svelte chops.<br/><br/>
+          Endorse your colleagues too. Karma, baby.<br/><br/>
+          Let’s skill-up your profile together. Message me.
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>005</id>
+      
+  </entry>
 
-                <![CDATA[
-                Banner Image = Free Billboard<br/><br/>
-                Your banner is your personal marketing space. Use it!<br/><br/>
-                Add a clean, relevant image or a message about what you do.<br/><br/>
-                Want suggestions? Ask me anything!
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">003</guid>
-            
-        </item>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 6</title>
+       <link></link>
+       <content type="html">
+            <![CDATA[
+          Request Recommendations<br/><br/>
+          Social proof isn’t just for Amazon reviews.<br/><br/>
+          Ask your team, mentors, or clients to say a few words. You deserve the praise.<br/><br/>
+          Need a script to ask for one? Hit me up.
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>006</id>
+      
+  </entry>
 
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 4</title>
-             <link></link>
-             <description>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 7</title>
+       <link></link>
+       <content type="html">
+            <![CDATA[
+          Post Once a Week<br/><br/>
+          Talk about what you’re learning, building, or thinking. Even bugs make good stories.<br/><br/>
+          Stay consistent. Visibility beats perfection.<br/><br/>
+          Need ideas on what to post? Ask away!
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>007</id>
+      
+  </entry>
 
-                <![CDATA[
-                About Section: Don’t Make It a Résumé<br/><br/>
-                Make it a story. Why do you code? What problems do you love solving?<br/><br/>
-                Make it human. Not robotic. (Unless you're a robot. Then carry on.)<br/><br/>
-                Follow me for more tips like this!
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">004</guid>
-            
-        </item>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 8</title>
+       <link></link>
+       <content type="html">
+            <![CDATA[
+          Comment Like a Human<br/><br/>
+          Commenting with real insight on posts shows you're alive and thinking.<br/><br/>
+          "Nice post" is not insight. Share your take.<br/><br/>
+          Drop a comment on my posts and let’s start a convo.
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>008</id>
+      
+  </entry>
 
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 5</title>
-             <link></link>
-             <description>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 9</title>
+       <link></link>
+       <content type="html">
+            <![CDATA[
+          Connect With Intention<br/><br/>
+          Don't just hit "connect" like you're playing Cookie Clicker.<br/><br/>
+          Add a note. Mention a shared interest or goal.<br/><br/>
+          Let’s connect the right way. Ping me anytime.
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>009</id>
+      
+  </entry>
 
-                <![CDATA[
-                List Your Skills (And Endorse Others)<br/><br/>
-                Don’t be shy. Show off those TypeScript, React, and Svelte chops.<br/><br/>
-                Endorse your colleagues too. Karma, baby.<br/><br/>
-                Let’s skill-up your profile together. Message me.
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">005</guid>
-            
-        </item>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 10</title>
+       <link></link>
+       <content type="html">
+            <![CDATA[
+          Use Keywords Like a Dev Uses Git<br/><br/>
+          Your profile should include keywords recruiters are searching for: languages, frameworks, cloud, etc.<br/><br/>
+          Not keyword stuffing, but keyword seasoning.<br/><br/>
+          Need help finding your core terms? Let’s chat.
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>010</id>
+      
+  </entry>
 
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 6</title>
-             <link></link>
-             <description>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 11</title>
+      <link></link>
+      <content type="html">
+          <![CDATA[
+          Headline = You in One Line<br/><br/>
+          Make it short but impactful. Think movie tagline, not user manual.<br/><br/>
+          Your title should tell people what you do and why they should care.<br/><br/>
+          Need help refining yours? Just ask.
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>011</id>
+      
+  </entry>
 
-                <![CDATA[
-                Request Recommendations<br/><br/>
-                Social proof isn’t just for Amazon reviews.<br/><br/>
-                Ask your team, mentors, or clients to say a few words. You deserve the praise.<br/><br/>
-                Need a script to ask for one? Hit me up.
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">006</guid>
-            
-        </item>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 12</title>
+       <link></link>
+       <content type="html">
+            <![CDATA[
+          Pin a Top Post<br/><br/>
+          Have a post that got great engagement? Pin it.<br/><br/>
+          It tells people right away what kind of thinker or builder you are.<br/><br/>
+          Got a post in mind but not sure? Let’s chat.
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>012</id>
+      
+  </entry>
 
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 7</title>
-             <link></link>
-             <description>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 13</title>
+       <link></link>
+       <content type="html">
+            <![CDATA[
+          Feature Your Projects<br/><br/>
+          Side project? Open source repo? Chrome extension that saves kittens?<br/><br/>
+          Feature it on your profile.<br/><br/>
+          Want help describing it well? Ping me.
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>013</id>
+      
+  </entry>
 
-                <![CDATA[
-                Post Once a Week<br/><br/>
-                Talk about what you’re learning, building, or thinking. Even bugs make good stories.<br/><br/>
-                Stay consistent. Visibility beats perfection.<br/><br/>
-                Need ideas on what to post? Ask away!
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">007</guid>
-            
-        </item>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 14</title>
+       <link></link>
+       <content type="html">
+            <![CDATA[
+          Celebrate Milestones<br/><br/>
+          Finished a bootcamp? Landed a cert? Survived legacy code?<br/><br/>
+          Post about it. Give your journey a spotlight.<br/><br/>
+          Need help turning it into a post? I’m here.
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>014</id>
+      
+  </entry>
 
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 8</title>
-             <link></link>
-             <description>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 15</title>
+       <link></link>
+       <content type="html">
+            <![CDATA[
+          Join Relevant Groups<br/><br/>
+          Find dev communities or industry groups and join the conversation.<br/><br/>
+          Lurking is fine. Participating is better.<br/><br/>
+          Want recs? I got a list.
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>015</id>
+      
+  </entry>
 
-                <![CDATA[
-                Comment Like a Human<br/><br/>
-                Commenting with real insight on posts shows you're alive and thinking.<br/><br/>
-                "Nice post" is not insight. Share your take.<br/><br/>
-                Drop a comment on my posts and let’s start a convo.
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">008</guid>
-            
-        </item>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 16</title>
+       <link></link>
+       <content type="html">
+            <![CDATA[
+          Be Curious in Comments<br/><br/>
+          Asking questions in comments drives interaction and makes people want to respond.<br/><br/>
+          Just don’t ask “Why?” on every post like a toddler.<br/><br/>
+          Need good questions to ask? Let’s brainstorm.
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>016</id>
+      
+  </entry>
 
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 9</title>
-             <link></link>
-             <description>
+  <entry>
+      <title type="text">Rocco's LinkedIn SSI: Micro-tip 17</title>
+       <link></link>
+       <content type="html">
+            <![CDATA[
+          Engage on Mobile Too<br/><br/>
+          Waiting in line? On the train?<br/><br/>
+          Drop a thoughtful comment or respond to messages. Little bursts of activity keep you top of mind.<br/><br/>
+          Need a content snack list? DM me.
+          <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
+      </content>
+      <id>017</id>
+      
+  </entry>
 
-                <![CDATA[
-                Connect With Intention<br/><br/>
-                Don't just hit "connect" like you're playing Cookie Clicker.<br/><br/>
-                Add a note. Mention a shared interest or goal.<br/><br/>
-                Let’s connect the right way. Ping me anytime.
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">009</guid>
-            
-        </item>
 
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 10</title>
-             <link></link>
-             <description>
-
-                <![CDATA[
-                Use Keywords Like a Dev Uses Git<br/><br/>
-                Your profile should include keywords recruiters are searching for: languages, frameworks, cloud, etc.<br/><br/>
-                Not keyword stuffing, but keyword seasoning.<br/><br/>
-                Need help finding your core terms? Let’s chat.
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">010</guid>
-            
-        </item>
-
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 11</title>
-            <link></link>
-            <description>
-                <![CDATA[
-                Headline = You in One Line<br/><br/>
-                Make it short but impactful. Think movie tagline, not user manual.<br/><br/>
-                Your title should tell people what you do and why they should care.<br/><br/>
-                Need help refining yours? Just ask.
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">011</guid>
-            
-        </item>
-
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 12</title>
-             <link></link>
-             <description>
-
-                <![CDATA[
-                Pin a Top Post<br/><br/>
-                Have a post that got great engagement? Pin it.<br/><br/>
-                It tells people right away what kind of thinker or builder you are.<br/><br/>
-                Got a post in mind but not sure? Let’s chat.
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">012</guid>
-            
-        </item>
-
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 13</title>
-             <link></link>
-             <description>
-
-                <![CDATA[
-                Feature Your Projects<br/><br/>
-                Side project? Open source repo? Chrome extension that saves kittens?<br/><br/>
-                Feature it on your profile.<br/><br/>
-                Want help describing it well? Ping me.
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">013</guid>
-            
-        </item>
-
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 14</title>
-             <link></link>
-             <description>
-
-                <![CDATA[
-                Celebrate Milestones<br/><br/>
-                Finished a bootcamp? Landed a cert? Survived legacy code?<br/><br/>
-                Post about it. Give your journey a spotlight.<br/><br/>
-                Need help turning it into a post? I’m here.
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">014</guid>
-            
-        </item>
-
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 15</title>
-             <link></link>
-             <description>
-
-                <![CDATA[
-                Join Relevant Groups<br/><br/>
-                Find dev communities or industry groups and join the conversation.<br/><br/>
-                Lurking is fine. Participating is better.<br/><br/>
-                Want recs? I got a list.
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">015</guid>
-            
-        </item>
-
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 16</title>
-             <link></link>
-             <description>
-
-                <![CDATA[
-                Be Curious in Comments<br/><br/>
-                Asking questions in comments drives interaction and makes people want to respond.<br/><br/>
-                Just don’t ask “Why?” on every post like a toddler.<br/><br/>
-                Need good questions to ask? Let’s brainstorm.
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">016</guid>
-            
-        </item>
-
-        <item>
-            <title>Rocco's LinkedIn SSI: Micro-tip 17</title>
-             <link></link>
-             <description>
-
-                <![CDATA[
-                Engage on Mobile Too<br/><br/>
-                Waiting in line? On the train?<br/><br/>
-                Drop a thoughtful comment or respond to messages. Little bursts of activity keep you top of mind.<br/><br/>
-                Need a content snack list? DM me.
-                <img url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" alt="roccos-linkedin-ssi-micro-tips-banner" />.  ]]>
-            </description>
-            <guid isPermaLink="false">017</guid>
-            
-        </item>
-
-    </channel>
-</rss>
+</feed>
