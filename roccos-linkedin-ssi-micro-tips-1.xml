@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Rocco's LinkedIn SSI Micro-Posts</title>
+        <link>https://www.example.com</link>
+        <description>Rocco's LinkedIn SSI Micro-Posts</description>
+        <atom:link href="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-1.xml" rel="self" type="application/rss+xml" />
+        <language>en</language>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 1</title>
+            <link>https://www.example.com/micro-tip-1</link>
+            <description>
+                <![CDATA[
+                Polish Your Profile Picture<br/><br/>
+                You wouldn't show up to an interview in your pajamas (hopefully). Your profile photo is your first impression.<br/><br/>
+                Make it clear, professional, and smile like you just passed all your unit tests on the first try.<br/><br/>
+                Follow me or drop a message if you’re unsure about your current photo!
+                ]]>
+            </description>
+            <guid isPermaLink="false">001</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 2</title>
+            <link>https://www.example.com/micro-tip-2</link>
+            <description>
+                <![CDATA[
+                Write a Killer Headline<br/><br/>
+                "Software Engineer" is fine. "JavaScript Wizard turning coffee into code" is better.<br/><br/>
+                Make your headline punchy and specific. Show some personality.<br/><br/>
+                Need a headline refresh? Connect with me or ping me.
+                ]]>
+            </description>
+            <guid isPermaLink="false">002</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 3</title>
+            <link>https://www.example.com/micro-tip-3</link>
+            <description>
+                <![CDATA[
+                Banner Image = Free Billboard<br/><br/>
+                Your banner is your personal marketing space. Use it!<br/><br/>
+                Add a clean, relevant image or a message about what you do.<br/><br/>
+                Want suggestions? Ask me anything!
+                ]]>
+            </description>
+            <guid isPermaLink="false">003</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 4</title>
+            <link>https://www.example.com/micro-tip-4</link>
+            <description>
+                <![CDATA[
+                About Section: Don’t Make It a Résumé<br/><br/>
+                Make it a story. Why do you code? What problems do you love solving?<br/><br/>
+                Make it human. Not robotic. (Unless you're a robot. Then carry on.)<br/><br/>
+                Follow me for more tips like this!
+                ]]>
+            </description>
+            <guid isPermaLink="false">004</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 5</title>
+            <link>https://www.example.com/micro-tip-5</link>
+            <description>
+                <![CDATA[
+                List Your Skills (And Endorse Others)<br/><br/>
+                Don’t be shy. Show off those TypeScript, React, and Svelte chops.<br/><br/>
+                Endorse your colleagues too. Karma, baby.<br/><br/>
+                Let’s skill-up your profile together. Message me.
+                ]]>
+            </description>
+            <guid isPermaLink="false">005</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 6</title>
+            <link>https://www.example.com/micro-tip-6</link>
+            <description>
+                <![CDATA[
+                Request Recommendations<br/><br/>
+                Social proof isn’t just for Amazon reviews.<br/><br/>
+                Ask your team, mentors, or clients to say a few words. You deserve the praise.<br/><br/>
+                Need a script to ask for one? Hit me up.
+                ]]>
+            </description>
+            <guid isPermaLink="false">006</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 7</title>
+            <link>https://www.example.com/micro-tip-7</link>
+            <description>
+                <![CDATA[
+                Post Once a Week<br/><br/>
+                Talk about what you’re learning, building, or thinking. Even bugs make good stories.<br/><br/>
+                Stay consistent. Visibility beats perfection.<br/><br/>
+                Need ideas on what to post? Ask away!
+                ]]>
+            </description>
+            <guid isPermaLink="false">007</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 8</title>
+            <link>https://www.example.com/micro-tip-8</link>
+            <description>
+                <![CDATA[
+                Comment Like a Human<br/><br/>
+                Commenting with real insight on posts shows you're alive and thinking.<br/><br/>
+                "Nice post" is not insight. Share your take.<br/><br/>
+                Drop a comment on my posts and let’s start a convo.
+                ]]>
+            </description>
+            <guid isPermaLink="false">008</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 9</title>
+            <link>https://www.example.com/micro-tip-9</link>
+            <description>
+                <![CDATA[
+                Connect With Intention<br/><br/>
+                Don't just hit "connect" like you're playing Cookie Clicker.<br/><br/>
+                Add a note. Mention a shared interest or goal.<br/><br/>
+                Let’s connect the right way. Ping me anytime.
+                ]]>
+            </description>
+            <guid isPermaLink="false">009</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 10</title>
+            <link>https://www.example.com/micro-tip-10</link>
+            <description>
+                <![CDATA[
+                Use Keywords Like a Dev Uses Git<br/><br/>
+                Your profile should include keywords recruiters are searching for: languages, frameworks, cloud, etc.<br/><br/>
+                Not keyword stuffing, but keyword seasoning.<br/><br/>
+                Need help finding your core terms? Let’s chat.
+                ]]>
+            </description>
+            <guid isPermaLink="false">010</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 11</title>
+            <link>https://www.example.com/micro-tip-11</link>
+            <description>
+                <![CDATA[
+                Headline = You in One Line<br/><br/>
+                Make it short but impactful. Think movie tagline, not user manual.<br/><br/>
+                Your title should tell people what you do and why they should care.<br/><br/>
+                Need help refining yours? Just ask.
+                ]]>
+            </description>
+            <guid isPermaLink="false">011</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 12</title>
+            <link>https://www.example.com/micro-tip-12</link>
+            <description>
+                <![CDATA[
+                Pin a Top Post<br/><br/>
+                Have a post that got great engagement? Pin it.<br/><br/>
+                It tells people right away what kind of thinker or builder you are.<br/><br/>
+                Got a post in mind but not sure? Let’s chat.
+                ]]>
+            </description>
+            <guid isPermaLink="false">012</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 13</title>
+            <link>https://www.example.com/micro-tip-13</link>
+            <description>
+                <![CDATA[
+                Feature Your Projects<br/><br/>
+                Side project? Open source repo? Chrome extension that saves kittens?<br/><br/>
+                Feature it on your profile.<br/><br/>
+                Want help describing it well? Ping me.
+                ]]>
+            </description>
+            <guid isPermaLink="false">013</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 14</title>
+            <link>https://www.example.com/micro-tip-14</link>
+            <description>
+                <![CDATA[
+                Celebrate Milestones<br/><br/>
+                Finished a bootcamp? Landed a cert? Survived legacy code?<br/><br/>
+                Post about it. Give your journey a spotlight.<br/><br/>
+                Need help turning it into a post? I’m here.
+                ]]>
+            </description>
+            <guid isPermaLink="false">014</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 15</title>
+            <link>https://www.example.com/micro-tip-15</link>
+            <description>
+                <![CDATA[
+                Join Relevant Groups<br/><br/>
+                Find dev communities or industry groups and join the conversation.<br/><br/>
+                Lurking is fine. Participating is better.<br/><br/>
+                Want recs? I got a list.
+                ]]>
+            </description>
+            <guid isPermaLink="false">015</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 16</title>
+            <link>https://www.example.com/micro-tip-16</link>
+            <description>
+                <![CDATA[
+                Be Curious in Comments<br/><br/>
+                Asking questions in comments drives interaction and makes people want to respond.<br/><br/>
+                Just don’t ask “Why?” on every post like a toddler.<br/><br/>
+                Need good questions to ask? Let’s brainstorm.
+                ]]>
+            </description>
+            <guid isPermaLink="false">016</guid>
+        </item>
+
+        <item>
+            <title>Rocco's LinkedIn SSI: Micro-tip 17</title>
+            <link>https://www.example.com/micro-tip-17</link>
+            <description>
+                <![CDATA[
+                Engage on Mobile Too<br/><br/>
+                Waiting in line? On the train?<br/><br/>
+                Drop a thoughtful comment or respond to messages. Little bursts of activity keep you top of mind.<br/><br/>
+                Need a content snack list? DM me.
+                ]]>
+            </description>
+            <guid isPermaLink="false">017</guid>
+        </item>
+
+    </channel>
+</rss>
