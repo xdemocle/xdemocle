@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Rocco's LinkedIn SSI Micro-Posts</title>
@@ -9,7 +10,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 1</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 Polish Your Profile Picture<br/><br/>
                 You wouldn't show up to an interview in your pajamas (hopefully). Your profile photo is your first impression.<br/><br/>
@@ -22,7 +25,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 2</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 Write a Killer Headline<br/><br/>
                 "Software Engineer" is fine. "JavaScript Wizard turning coffee into code" is better.<br/><br/>
@@ -35,7 +40,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 3</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 Banner Image = Free Billboard<br/><br/>
                 Your banner is your personal marketing space. Use it!<br/><br/>
@@ -49,7 +56,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 4</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 About Section: Don’t Make It a Résumé<br/><br/>
                 Make it a story. Why do you code? What problems do you love solving?<br/><br/>
@@ -63,7 +72,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 5</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 List Your Skills (And Endorse Others)<br/><br/>
                 Don’t be shy. Show off those TypeScript, React, and Svelte chops.<br/><br/>
@@ -77,7 +88,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 6</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 Request Recommendations<br/><br/>
                 Social proof isn’t just for Amazon reviews.<br/><br/>
@@ -91,7 +104,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 7</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 Post Once a Week<br/><br/>
                 Talk about what you’re learning, building, or thinking. Even bugs make good stories.<br/><br/>
@@ -105,7 +120,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 8</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 Comment Like a Human<br/><br/>
                 Commenting with real insight on posts shows you're alive and thinking.<br/><br/>
@@ -119,7 +136,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 9</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 Connect With Intention<br/><br/>
                 Don't just hit "connect" like you're playing Cookie Clicker.<br/><br/>
@@ -133,7 +152,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 10</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 Use Keywords Like a Dev Uses Git<br/><br/>
                 Your profile should include keywords recruiters are searching for: languages, frameworks, cloud, etc.<br/><br/>
@@ -162,7 +183,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 12</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 Pin a Top Post<br/><br/>
                 Have a post that got great engagement? Pin it.<br/><br/>
@@ -176,7 +199,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 13</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 Feature Your Projects<br/><br/>
                 Side project? Open source repo? Chrome extension that saves kittens?<br/><br/>
@@ -190,7 +215,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 14</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 Celebrate Milestones<br/><br/>
                 Finished a bootcamp? Landed a cert? Survived legacy code?<br/><br/>
@@ -204,7 +231,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 15</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 Join Relevant Groups<br/><br/>
                 Find dev communities or industry groups and join the conversation.<br/><br/>
@@ -218,7 +247,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 16</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 Be Curious in Comments<br/><br/>
                 Asking questions in comments drives interaction and makes people want to respond.<br/><br/>
@@ -232,7 +263,9 @@
 
         <item>
             <title>Rocco's LinkedIn SSI: Micro-tip 17</title>
-            <description>
+             <link></link>
+             <description>
+
                 <![CDATA[
                 Engage on Mobile Too<br/><br/>
                 Waiting in line? On the train?<br/><br/>
