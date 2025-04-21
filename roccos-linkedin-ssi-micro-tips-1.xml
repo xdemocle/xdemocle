@@ -1,201 +1,261 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0"
-  xml:lang="en-US">
-  <link rel="alternate" type="text/html"
-    href="https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/" />
-  <id>https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-1.xml</id>
-  <updated>2025-04-19T21:54:13+00:00</updated>
-  <author>
-    <name>xdemocle</name>
-  </author>
-  <link rel="self" type="application/atom+xml"
-    href="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-1.xml" />
-  <title type="text">Rocco's LinkedIn SSI Micro-Posts</title>
-  <subtitle type="text">Increase your Social Selling Index score with actionable insights</subtitle>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rocco's LinkedIn SSI Micro-Posts</title>
+    <description>Increase your Social Selling Index score with actionable insights</description>
+    <link>https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/</link>
+    <atom:link href="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-1.xml"
+      rel="self" />
+    <lastBuildDate>Sat, 19 Apr 2025 21:54:13 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+    <atom:updated>2025-04-19T21:54:13Z</atom:updated>
+    <category>LinkedIn</category>
+    <category>Marketing</category>
+    <category>Social Media</category>
+    <copyright>Copyright 2025, Rocco's LinkedIn SSI Micro-Posts</copyright>
 
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 1</title>
-    <link href="https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tip-1-rocco-russo-tigof/" />
-    <summary type="html"><![CDATA[ Polish Your Profile Picture<br/><br/> You wouldn't show up to an interview in your pajamas (hopefully). Your profile photo is your first impression.<br/><br/> Make it clear, professional, and smile like you just passed all your unit tests on the first try.<br/><br/> Follow me or drop a message if you’re unsure about your current photo! ]]></summary>
-    <id>tag:linkedin.com,2025:1</id>
-    <updated>2025-04-19T21:54:13+00:01</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 1</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 1</description>
+      <link>https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tip-1-rocco-russo-tigof/</link>
+      <content:encoded><![CDATA[ Polish Your Profile Picture<br/><br/> You wouldn't show up to an interview in your pajamas (hopefully). Your profile photo is your first impression.<br/><br/> Make it clear, professional, and smile like you just passed all your unit tests on the first try.<br/><br/> Follow me or drop a message if you’re unsure about your current photo! ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tip-1-rocco-russo-tigof/</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
 
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 2</title>
-    <link href="https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=2" />
-    <summary type="html"><![CDATA[ Write a Killer Headline<br/><br/> "Software Engineer" is fine. "JavaScript Wizard turning coffee into code" is better.<br/><br/> Make your headline punchy and specific. Show some personality.<br/><br/> Need a headline refresh? Connect with me or ping me. ]]></summary>
-    <id>tag:linkedin.com,2025:2</id>
-    <updated>2025-04-19T21:54:13+00:02</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 2</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 2</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=2</link>
+      <content:encoded><![CDATA[ Write a Killer Headline<br/><br/> "Software Engineer" is fine. "JavaScript Wizard turning coffee into code" is better.<br/><br/> Make your headline punchy and specific. Show some personality.<br/><br/> Need a headline refresh? Connect with me or ping me. ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=2</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
 
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 3</title>
-    <link href="https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=3" />
-    <summary type="html"><![CDATA[ Banner Image = Free Billboard<br/><br/> Your banner is your personal marketing space. Use it!<br/><br/> Add a clean, relevant image or a message about what you do.<br/><br/> Want suggestions? Ask me anything! ]]></summary>
-    <id>tag:linkedin.com,2025:3</id>
-    <updated>2025-04-19T21:54:13+00:03</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 3</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 3</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=3</link>
+      <content:encoded><![CDATA[ Banner Image = Free Billboard<br/><br/> Your banner is your personal marketing space. Use it!<br/><br/> Add a clean, relevant image or a message about what you do.<br/><br/> Want suggestions? Ask me anything! ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=3</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
 
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 4</title>
-    <link href="https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=4" />
-    <summary type="html"><![CDATA[About Section: Don’t Make It a Résumé<br/><br/> Make it a story. Why do you code? What problems do you love solving?<br/><br/> Make it human. Not robotic. (Unless you're a robot. Then carry on.)<br/><br/> Follow me for more tips like this! ]]></summary>
-    <id>tag:linkedin.com,2025:4</id>
-    <updated>2025-04-19T21:54:13+00:04</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 5</title>
-    <link href="https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=5" />
-    <summary type="html"><![CDATA[List Your Skills (And Endorse Others)<br/><br/> Don’t be shy. Show off those TypeScript, React, and Svelte chops.<br/><br/> Endorse your colleagues too. Karma, baby.<br/><br/> Let’s skill-up your profile together. Message me. ]]></summary>
-    <id>tag:linkedin.com,2025:5</id>
-    <updated>2025-04-19T21:54:13+00:05</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 6</title>
-    <link
-      href="https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=7" />
-    <summary type="html"><![CDATA[Request Recommendations<br/><br/> Social proof isn’t just for Amazon reviews.<br/><br/> Ask your team, mentors, or clients to say a few words. You deserve the praise.<br/><br/> Need a script to ask for one? Hit me up. ]]></summary>
-    <id>tag:linkedin.com,2025:6</id>
-    <updated>2025-04-19T21:54:13+00:06</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 7</title>
-    <link
-      href="https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=8" />
-    <summary type="html"><![CDATA[Post Once a Week<br/><br/> Talk about what you’re learning, building, or thinking. Even bugs make good stories.<br/><br/> Stay consistent. Visibility beats perfection.<br/><br/> Need ideas on what to post? Ask away! ]]></summary>
-    <id>tag:linkedin.com,2025:7</id>
-    <updated>2025-04-19T21:54:13+00:07</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 8</title>
-    <link
-      href="https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=9" />
-    <summary type="html"><![CDATA[Comment Like a Human<br/><br/> Commenting with real insight on posts shows you're alive and thinking.<br/><br/> "Nice post" is not insight. Share your take.<br/><br/> Drop a comment on my posts and let’s start a convo. ]]></summary>
-    <id>tag:linkedin.com,2025:8</id>
-    <updated>2025-04-19T21:54:13+00:08</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 9</title>
-    <link
-      href="https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=10" />
-    <summary type="html"><![CDATA[Connect With Intention<br/><br/> Don't just hit "connect" like you're playing Cookie Clicker.<br/><br/> Add a note. Mention a shared interest or goal.<br/><br/> Let’s connect the right way. Ping me anytime. ]]></summary>
-    <id>tag:linkedin.com,2025:9</id>
-    <updated>2025-04-19T21:54:13+00:09</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 10</title>
-    <link
-      href="https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=11" />
-    <summary type="html"><![CDATA[ Use Keywords Like a Dev Uses Git<br/><br/> Your profile should include keywords recruiters are searching for: languages, frameworks, cloud, etc.<br/><br/> Not keyword stuffing, but keyword seasoning.<br/><br/> Need help finding your core terms? Let’s chat. ]]></summary>
-    <id>tag:linkedin.com,2025:10</id>
-    <updated>2025-04-19T21:54:13+00:10</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 11</title>
-    <link
-      href="https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=12" />
-    <summary type="html"><![CDATA[Headline = You in One Line<br/><br/> Make it short but impactful. Think movie tagline, not user manual.<br/><br/> Your title should tell people what you do and why they should care.<br/><br/> Need help refining yours? Just ask. ]]></summary>
-    <id>tag:linkedin.com,2025:11</id>
-    <updated>2025-04-19T21:54:13+00:11</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 12</title>
-    <link
-      href="https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=13" />
-    <summary type="html"><![CDATA[Pin a Top Post<br/><br/> Have a post that got great engagement? Pin it.<br/><br/> It tells people right away what kind of thinker or builder you are.<br/><br/> Got a post in mind but not sure? Let’s chat. ]]></summary>
-    <id>tag:linkedin.com,2025:12</id>
-    <updated>2025-04-19T21:54:13+00:12</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 13</title>
-    <link
-      href="https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=14" />
-    <summary type="html"><![CDATA[Feature Your Projects<br/><br/> Side project? Open source repo? Chrome extension that saves kittens?<br/><br/> Feature it on your profile.<br/><br/> Want help describing it well? Ping me. ]]></summary>
-    <id>tag:linkedin.com,2025:13</id>
-    <updated>2025-04-19T21:54:13+00:13</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 14</title>
-    <link
-      href="https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/" />
-    <summary type="html"><![CDATA[Celebrate Milestones<br/><br/> Finished a bootcamp? Landed a cert? Survived legacy code?<br/><br/> Post about it. Give your journey a spotlight.<br/><br/> Need help turning it into a post? I’m here. ]]></summary>
-    <id>tag:linkedin.com,2025:14</id>
-    <updated>2025-04-19T21:54:13+00:14</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 15</title>
-    <link
-      href="https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=15" />
-    <summary type="html"><![CDATA[Join Relevant Groups<br/><br/> Find dev communities or industry groups and join the conversation.<br/><br/> Lurking is fine. Participating is better.<br/><br/> Want recs? I got a list. ]]></summary>
-    <id>tag:linkedin.com,2025:15</id>
-    <updated>2025-04-19T21:54:13+00:15</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 16</title>
-    <link
-      href="https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=16" />
-    <summary type="html"><![CDATA[Be Curious in Comments<br/><br/> Asking questions in comments drives interaction and makes people want to respond.<br/><br/> Just don’t ask “Why?” on every post like a toddler.<br/><br/> Need good questions to ask? Let’s brainstorm. ]]></summary>
-    <id>tag:linkedin.com,2025:16</id>
-    <updated>2025-04-19T21:54:13+00:16</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
-  <entry>
-    <title type="text">Rocco's LinkedIn SSI: Micro-tip 17</title>
-    <link
-      href="https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=17" />
-    <summary type="html"><![CDATA[Engage on Mobile Too<br/><br/> Waiting in line? On the train?<br/><br/> Drop a thoughtful comment or respond to messages. Little bursts of activity keep you top of mind.<br/><br/> Need a content snack list? DM me. ]]></summary>
-    <id>tag:linkedin.com,2025:17</id>
-    <updated>2025-04-19T21:54:13+00:17</updated>
-    <author>
-      <name>xdemocle</name>
-    </author>
-  </entry>
-</feed>
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 4</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 4</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=4</link>
+      <content:encoded><![CDATA[About Section: Don’t Make It a Résumé<br/><br/> Make it a story. Why do you code? What problems do you love solving?<br/><br/> Make it human. Not robotic. (Unless you're a robot. Then carry on.)<br/><br/> Follow me for more tips like this! ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=4</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
+
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 5</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 5</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=5</link>
+      <content:encoded><![CDATA[List Your Skills (And Endorse Others)<br/><br/> Don’t be shy. Show off those TypeScript, React, and Svelte chops.<br/><br/> Endorse your colleagues too. Karma, baby.<br/><br/> Let’s skill-up your profile together. Message me. ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=5</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
+
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 6</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 6</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=6</link>
+      <content:encoded><![CDATA[Request Recommendations<br/><br/> Social proof isn’t just for Amazon reviews.<br/><br/> Ask your team, mentors, or clients to say a few words. You deserve the praise.<br/><br/> Need a script to ask for one? Hit me up. ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=6</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 7</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 7</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=7</link>
+      <content:encoded><![CDATA[Post Once a Week<br/><br/> Talk about what you’re learning, building, or thinking. Even bugs make good stories.<br/><br/> Stay consistent. Visibility beats perfection.<br/><br/> Need ideas on what to post? Ask away! ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=7</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 8</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 8</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=8</link>
+      <content:encoded><![CDATA[Comment Like a Human<br/><br/> Commenting with real insight on posts shows you're alive and thinking.<br/><br/> "Nice post" is not insight. Share your take.<br/><br/> Drop a comment on my posts and let’s start a convo. ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=8</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 9</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 9</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=9</link>
+      <content:encoded><![CDATA[Connect With Intention<br/><br/> Don't just hit "connect" like you're playing Cookie Clicker.<br/><br/> Add a note. Mention a shared interest or goal.<br/><br/> Let’s connect the right way. Ping me anytime. ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=9</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 10</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 10</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=10</link>
+      <content:encoded><![CDATA[ Use Keywords Like a Dev Uses Git<br/><br/> Your profile should include keywords recruiters are searching for: languages, frameworks, cloud, etc.<br/><br/> Not keyword stuffing, but keyword seasoning.<br/><br/> Need help finding your core terms? Let’s chat. ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=10</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 11</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 11</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=11</link>
+      <content:encoded><![CDATA[Headline = You in One Line<br/><br/> Make it short but impactful. Think movie tagline, not user manual.<br/><br/> Your title should tell people what you do and why they should care.<br/><br/> Need help refining yours? Just ask. ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=11</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 12</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 12</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=12</link>
+      <content:encoded><![CDATA[Pin a Top Post<br/><br/> Have a post that got great engagement? Pin it.<br/><br/> It tells people right away what kind of thinker or builder you are.<br/><br/> Got a post in mind but not sure? Let’s chat. ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=12</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 13</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 13</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=13</link>
+      <content:encoded><![CDATA[Feature Your Projects<br/><br/> Side project? Open source repo? Chrome extension that saves kittens?<br/><br/> Feature it on your profile.<br/><br/> Want help describing it well? Ping me. ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=13</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 14</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 14</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=14</link>
+      <content:encoded><![CDATA[Celebrate Milestones<br/><br/> Finished a bootcamp? Landed a cert? Survived legacy code?<br/><br/> Post about it. Give your journey a spotlight.<br/><br/> Need help turning it into a post? I’m here. ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=14</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 15</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 15</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=15</link>
+      <content:encoded><![CDATA[Join Relevant Groups<br/><br/> Find dev communities or industry groups and join the conversation.<br/><br/> Lurking is fine. Participating is better.<br/><br/> Want recs? I got a list. ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=15</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 16</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 16</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=16</link>
+      <content:encoded><![CDATA[Be Curious in Comments<br/><br/> Asking questions in comments drives interaction and makes people want to respond.<br/><br/> Just don’t ask “Why?” on every post like a toddler.<br/><br/> Need good questions to ask? Let’s brainstorm. ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=16</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
+    <item>
+      <enclosure url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        length="1380409" type="image/png" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 17</title>
+      <description>Rocco's LinkedIn SSI: Micro-tip 17</description>
+      <link>
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=17</link>
+      <content:encoded><![CDATA[Engage on Mobile Too<br/><br/> Waiting in line? On the train?<br/><br/> Drop a thoughtful comment or respond to messages. Little bursts of activity keep you top of mind.<br/><br/> Need a content snack list? DM me. ]]></content:encoded>
+      <guid isPermaLink="true">
+        https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=17</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
+  </channel>
+</rss>
