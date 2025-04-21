@@ -17,12 +17,24 @@
     <copyright>Copyright 2025, Rocco's LinkedIn SSI Micro-Posts</copyright>
 
     <item>
-      <media:content medium="image" url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png" width="1024" height="1024" />
       <title>Rocco's LinkedIn SSI: Micro-tip 1</title>
       <description><![CDATA[ Polish Your Profile Picture<br/><br/> You wouldn't show up to an interview in your pajamas (hopefully). Your profile photo is your first impression.<br/><br/> Make it clear, professional, and smile like you just passed all your unit tests on the first try.<br/><br/> Follow me or drop a message if you’re unsure about your current photo! ]]></description>
       <link>https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tip-1-rocco-russo-tigof/</link>
       <guid isPermaLink="true">
         https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tip-1-rocco-russo-tigof/</guid>
+      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
+      <atom:published>2025-04-18T14:42:43Z</atom:published>
+      <dc:creator>xdemocle</dc:creator>
+    </item>
+
+    <item>
+      <media:content medium="image"
+        url="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-banner.png"
+        width="1024" height="1024" />
+      <title>Rocco's LinkedIn SSI: Micro-tip 1</title>
+      <description><![CDATA[ Polish Your Profile Picture<br/><br/> You wouldn't show up to an interview in your pajamas (hopefully). Your profile photo is your first impression.<br/><br/> Make it clear, professional, and smile like you just passed all your unit tests on the first try.<br/><br/> Follow me or drop a message if you’re unsure about your current photo! ]]></description>
+      <link>https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=2</link>
+      <guid isPermaLink="true">https://www.linkedin.com/newsletters/rocco-s-linkedin-ssi-microtips-7319664835611312128/?id=2</guid>
       <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
       <atom:published>2025-04-18T14:42:43Z</atom:published>
       <dc:creator>xdemocle</dc:creator>
