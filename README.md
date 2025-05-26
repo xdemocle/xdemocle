@@ -15,6 +15,8 @@ I thrive at the intersection of code and impact, mentoring teams to success, boo
 
 📫 How to reach me: [https://rocco.me](https://rocco.me)
 
+P.S. Scammers, stay away. I'm broke, and I will make you cry anyway.
+
 <!--
 **xdemocle/xdemocle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
