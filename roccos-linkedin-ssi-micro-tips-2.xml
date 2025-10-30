@@ -1,289 +1,249 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rocco's LinkedIn SSI Micro-Posts</title>
-    <description>Increase your Social Selling Index score with actionable insights</description>
-    <link>https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/</link>
-    <atom:link href="https://xdemocle.github.io/xdemocle/roccos-linkedin-ssi-micro-tips-2.xml"
-      rel="self" />
-    <lastBuildDate>Sat, 19 Apr 2025 21:54:13 +0000</lastBuildDate>
-    <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-    <atom:updated>2025-04-19T21:54:13Z</atom:updated>
-    <category>LinkedIn</category>
-    <category>Marketing</category>
-    <category>Social Media</category>
-    <copyright>Copyright 2025, Rocco's LinkedIn SSI Micro-Posts</copyright>
+    <title>Rocco's LinkedIn SSI Micro-Tips</title>
+    <link>https://linkedgrow.online</link>
+    <description>Tired of shouting? Get sharp, bi-weekly micro-tips to grow your LinkedIn SSI, attract more eyeballs, and turn visibility into traction.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://linkedgrow.online/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 19</title>
-      <description><![CDATA[Use Emojis (Sparingly) 
-A 🚀 here and a 💡 there can make posts more readable. 
-Don’t go full emoji parade unless you’re writing a party invite. 
-Want feedback on your formatting? Ask me.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=19</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=19</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-19</link>
+      <guid>https://linkedgrow.online/micro-tip-19</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Keep Your Experience Section Fresh</h2>
+        <p>Your Experience section isn't set in stone. Update it when things actually happen.</p>
+        <p>Ship a feature? Add it. Lead a project? Write it down. Learn a new stack? Put it there. Recruiters read this section carefully. If it looks old, they'll think you stopped growing.</p>
+        <p>Write like you talk. Use action words. Focus on what you built, not what you were "responsible for." Compare these: "Built a React dashboard that cut load time by 40%" versus "Responsible for frontend development." One tells a story. The other just fills space.</p>
+        <p>Fresh updates signal you're still learning. That's what people want to see.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 20</title>
-      <description><![CDATA[Update Your Job Preferences 
-Let recruiters know what you're open to, even privately. 
-Set your preferences clearly to show up in more filtered searches. 
-Need help configuring it? I got you.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=20</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=20</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-20</link>
+      <guid>https://linkedgrow.online/micro-tip-20</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Tap Into Alumni Networks</h2>
+        <p>Your old school or bootcamp? Use it.</p>
+        <p>Connect with people who went through the same program or worked at your old company. Shared history builds trust fast. They're more likely to intro you, refer you, or just reply to a message.</p>
+        <p>Search LinkedIn by your school name. Filter by industry or company. Send a short note about what you have in common. Don't pitch anything yet.</p>
+        <p>Alumni help each other. It's simple math.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 21</title>
-      <description><![CDATA[Celebrate Others 
-Congratulate peers on their wins. Write comments that show you care. 
-LinkedIn is a community. Act like it. 
-Want help being more visible and kind? Message me.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=21</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=21</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-21</link>
+      <guid>https://linkedgrow.online/micro-tip-21</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Write Original Articles (Even Short Ones)</h2>
+        <p>Publishing articles proves you think about your work, not just do it.</p>
+        <p>Pick something you know cold. A tricky bug you fixed. A pattern you figured out. A tool that changed how you code. Write 300 to 500 words. Keep it clear and useful.</p>
+        <p>Articles build credibility without you having to say "trust me." They also stick around longer than posts and show up in search. You don't need to be Hemingway. You just need to know your stuff and explain it.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 22</title>
-      <description><![CDATA[Write a Simple Tagline for Posts 
-First line matters. It decides if people click “see more.” 
-Write it like a headline. Or like the punchline of a dev joke. 
-Want help making your posts punchier? Let’s edit one together.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=22</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=22</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-22</link>
+      <guid>https://linkedgrow.online/micro-tip-22</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Turn on "Open to Work" (Smartly)</h2>
+        <p>The green badge works. Recruiters filter by it.</p>
+        <p>Go to your settings and turn on "Open to Work." If you're currently employed and want to keep it quiet, choose "recruiters only." Specify the roles, locations, and work types you want. Don't leave it vague.</p>
+        <p>This isn't desperation. It's making yourself available to people who can actually help. Hiding when you're looking just makes the search harder.</p>
+        <p>Signal clearly. Get found faster.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 23</title>
-      <description><![CDATA[Answer Questions in DMs 
-Being helpful in DMs can lead to job referrals, collaborations, or friendships. 
-Be kind, but don’t let it consume your time. 
-Need help handling outreach? I can coach you through it.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=23</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=23</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-23</link>
+      <guid>https://linkedgrow.online/micro-tip-23</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Follow Industry Leaders (The Right Ones)</h2>
+        <p>Your feed shapes what you think about. Fill it with people who know things.</p>
+        <p>Follow engineers, CTOs, and leaders who post real insights. Skip the motivational quote accounts and meme recyclers. Look for people who teach, share mistakes, or break down hard concepts clearly.</p>
+        <p>Comment on their posts with actual thoughts. You'll learn faster, get ideas for your own content, and appear on the radar of people who matter. Quality follows beat random noise every time.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 24</title>
-      <description><![CDATA[Create a “Job-Winning” Post 
-Make one post that showcases your skills, goals, and who you are. 
-Pin it. Share it. Let it work for you. 
-Want a second pair of eyes on yours? Hit me up.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=24</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=24</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-24</link>
+      <guid>https://linkedgrow.online/micro-tip-24</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Add Keywords Recruiters Actually Search</h2>
+        <p>Your profile needs to speak recruiter language. They're searching by tech stack, not vibes.</p>
+        <p>Sprinkle keywords naturally into your About and Experience sections. React, TypeScript, Node, Python, whatever you actually use. Don't keyword stuff like it's 2005 SEO. Just make sure the tools you know show up where people look.</p>
+        <p>Recruiters use search filters. If your profile doesn't match their query, you don't exist. It's that simple. Think of your profile as searchable, not just readable.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 25</title>
-      <description><![CDATA[Use LinkedIn Learning 
-Complete relevant courses and show them off. 
-It tells people you're not just cruising. 
-Need good dev course picks? I’ve got recs.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=25</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=25</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-25</link>
+      <guid>https://linkedgrow.online/micro-tip-25</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Tag People When It Makes Sense</h2>
+        <p>If you mention someone in a post, tag them. If you share someone's article, tag the author.</p>
+        <p>It's not sucking up. It's starting a conversation. Tags invite engagement. They also show you're not just broadcasting into the void. You're part of a community that actually talks to each other.</p>
+        <p>Plus, when you tag someone with a decent following, their network sees your post too. That's how reach compounds. Just don't overdo it or tag randomly. Five tags per post, max, and only if they're genuinely relevant.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 26</title>
-      <description><![CDATA[Follow Key Recruiters 
-They post jobs, tips, and insights. And they notice who engages. 
-Don’t ghost them. Say hi. 
-Want a starter list? I can share a few.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=26</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=26</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-26</link>
+      <guid>https://linkedgrow.online/micro-tip-26</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Join Niche Tech Groups</h2>
+        <p>LinkedIn groups exist for almost every stack and niche. Find two or three that match what you do.</p>
+        <p>Join them. Read what people ask. Answer questions when you can. Share useful links. Don't lurk forever. Groups are where real conversations happen, away from the main feed's noise.</p>
+        <p>You'll meet people working on similar problems. Some will become connections. A few might become colleagues or collaborators. The best networks aren't built from cold outreach. They grow from showing up in the same places consistently.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 27</title>
-      <description><![CDATA[Include Links in the Comments 
-If you’re posting something valuable (like a GitHub link), drop it in the comments instead of the post. 
-Don’t ghost them. Say hi. 
-Want a starter list? I can share a few.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=27</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=27</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-27</link>
+      <guid>https://linkedgrow.online/micro-tip-27</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Ask for Recommendations (Yes, It's Awkward)</h2>
+        <p>Nobody likes asking for recommendations. Do it anyway.</p>
+        <p>Pick someone you worked with closely. A manager, a teammate, a mentor. Send them a short message. Remind them of a specific project or moment. Ask if they'd be willing to write a quick recommendation.</p>
+        <p>Most people will say yes. Recommendations add social proof that you can't fake. They show you're not just claiming you're good at something. Someone else is vouching for you. That matters when a recruiter is deciding between you and ten other candidates.</p>
+        <p>Swallow the awkwardness. Send the message.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 28</title>
-      <description><![CDATA[Start Conversations with Polls 
-Ask your network something simple but relevant. 
-Tech stacks, dev tools, remote vs office — people love to vote. 
-Want to brainstorm a poll idea? Ping me.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=28</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=28</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-28</link>
+      <guid>https://linkedgrow.online/micro-tip-28</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Give Recommendations Too</h2>
+        <p>When you vouch for someone else, they often return the favor. But that's not why you should do it.</p>
+        <p>Write a recommendation for a colleague who deserves it. Be specific. Mention what they're great at and what working with them was like. Keep it short and honest.</p>
+        <p>Giving recommendations shows you notice good work in others. It also shows you're not only focused on yourself. Recruiters notice that too. Plus, it just feels good to help someone out. Start there and see what happens.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 29</title>
-      <description><![CDATA[Highlight Your Values 
-Mention things you care about in your posts or summary. Diversity, mentorship, ethics in AI? 
-It resonates with the right people. 
-Let’s define your vibe together.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=29</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=29</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-29</link>
+      <guid>https://linkedgrow.online/micro-tip-29</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Customize Your LinkedIn URL</h2>
+        <p>Your default LinkedIn URL looks like someone smashed a keyboard. Change it.</p>
+        <p>Go to your profile settings and create a custom URL. Use your name. If that's taken, add a middle initial or your field. linkedin.com/in/yourname works better than linkedin.com/in/xyz8473hd for everything. Business cards, email signatures, resumes, casual conversations.</p>
+        <p>It's a small thing that makes you look like you know what you're doing. Takes two minutes. Architects do it. Teachers do it. If you haven't done it yet, do it now.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 30</title>
-      <description><![CDATA[Post a Win + a Lesson 
-Don’t just post that you finished a project — share what you learned or what went sideways. 
-It makes you relatable and valuable. 
-Want help structuring your story? Hit me up.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=30</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=30</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-30</link>
+      <guid>https://linkedgrow.online/micro-tip-30</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Engage With Company Pages You Care About</h2>
+        <p>Follow companies you'd actually want to work for or partner with. Then engage with their posts.</p>
+        <p>Like their updates. Comment with real thoughts, not "great post!" Show you understand what they're doing. If a design studio shares a case study, mention what caught your eye. If a logistics firm talks about efficiency gains, ask a smart question.</p>
+        <p>People who run those pages notice active commenters. It's a soft way to get on their radar without sending cold messages. Sales reps know this. Consultants know this. You should too.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 31</title>
-      <description><![CDATA[Showcase Your Certifications 
-Add relevant certifications to your profile. They validate your skills and show commitment to continuous learning. 
-Certifications can set you apart in a competitive job market. 
-Need help highlighting your certifications? Let's connect.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=31</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=31</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-31</link>
+      <guid>https://linkedgrow.online/micro-tip-31</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Showcase Your Certifications</h2>
+        <p>If you earned a cert, put it on your profile. Don't hide it in a folder somewhere.</p>
+        <p>Add certificates to the Certifications section. AWS, PMP, Google Analytics, CPA, whatever validates your skills. They prove you invested time learning something specific. Hiring managers filter by certifications when they need someone who already knows the tools.</p>
+        <p>Pharmacists list their licenses. Accountants show their credentials. You should do the same. Credentials aren't bragging when they're relevant to what you do. They're proof.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 32</title>
-      <description><![CDATA[Engage in LinkedIn Learning 
-Utilize LinkedIn Learning to acquire new skills. Display completed courses on your profile to demonstrate your dedication to growth. 
-Learning new skills keeps you competitive. 
-Need course recommendations? Follow me or reach out.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=32</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=32</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-32</link>
+      <guid>https://linkedgrow.online/micro-tip-32</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Use LinkedIn Learning (Then Show It)</h2>
+        <p>Take courses that fill gaps in your knowledge. Then display the completed ones on your profile.</p>
+        <p>LinkedIn Learning has thousands of courses. Some are better than others. Pick topics you need for your next role or project. Finish them. The platform adds completed courses to your profile automatically if you let it.</p>
+        <p>It signals you're actively learning, not waiting for someone to train you. Marketers do this to stay current. Project managers do it to learn new frameworks. Continuous learning isn't optional anymore. Make it visible.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 33</title>
-      <description><![CDATA[Participate in Virtual Events 
-Join LinkedIn-hosted webinars and virtual events related to your field. They offer networking opportunities and industry insights. 
-Staying active in your industry keeps you informed and connected. 
-Want event suggestions? Let's connect.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=33</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=33</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-33</link>
+      <guid>https://linkedgrow.online/micro-tip-33</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Participate in Virtual Events</h2>
+        <p>Join LinkedIn webinars and virtual events in your field. They're free networking with a clear reason to connect afterward.</p>
+        <p>Attend events about topics you care about. Ask questions in the chat. Take notes. After it ends, connect with the speakers or other attendees. Reference something specific from the event in your connection request.</p>
+        <p>Journalists network at press events. Real estate agents attend open houses. Virtual events work the same way. You get insights and connections in one shot. Show up, engage, follow up.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 34</title>
-      <description><![CDATA[Highlight Volunteer Experience 
-Include volunteer roles on your profile. They showcase your values and can resonate with potential employers. 
-Volunteering reflects initiative and character. 
-Want to highlight your volunteer work? Let's connect.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=34</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=34</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-34</link>
+      <guid>https://linkedgrow.online/micro-tip-34</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Highlight Volunteer Work</h2>
+        <p>Volunteer experience belongs on your profile. It shows what you care about beyond a paycheck.</p>
+        <p>Add volunteer roles to the Experience section. Coached a youth sports team? Organized community events? Built a website for a nonprofit? Put it down. These roles show initiative, values, and often skills that transfer directly to work.</p>
+        <p>Employers look for culture fit, not just technical ability. A graphic designer who volunteers at animal shelters tells a story. A developer who teaches coding to kids shows patience and communication skills. Your volunteer work isn't filler. It's character proof.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 35</title>
-      <description><![CDATA[Engage with Company Pages 
-Follow and interact with company pages in your industry. It keeps you informed and shows your interest in the field. 
-Engaging with companies can open doors. 
-Want to know which companies to follow? Let's connect.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=35</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=35</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-35</link>
+      <guid>https://linkedgrow.online/micro-tip-35</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Write in First Person on Your Profile</h2>
+        <p>Your profile isn't your resume. Stop writing like a robot wrote it about you.</p>
+        <p>Use "I" instead of your name in third person. "I build data pipelines" reads better than "John builds data pipelines." First person feels like a conversation. Third person feels like someone else is trying to sell you.</p>
+        <p>Lawyers write this way. Consultants write this way. Anyone who wants to sound human writes this way. If you wouldn't say it out loud at a coffee meeting, don't write it on your profile.</p>
+      ]]></description>
     </item>
 
     <item>
       <title>Rocco's LinkedIn SSI: Micro-tip 36</title>
-      <description><![CDATA[Use LinkedIn's 'Open to Work' Feature 
-Activate the 'Open to Work' feature to signal recruiters that you're open to opportunities. Customize it to specify the roles and locations you're interested in. 
-Make it easier for opportunities to find you. 
-Need help setting it up? Follow me or reach out.]]></description>
-      <link>
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=36</link>
-      <guid isPermaLink="true">
-        https://www.linkedin.com/pulse/roccos-linkedin-ssi-micro-tips-rocco-russo-1gmxf/?id=36</guid>
-      <pubDate>Fri, 18 Apr 2025 14:42:43 +0000</pubDate>
-      <atom:published>2025-04-18T14:42:43Z</atom:published>
-      <dc:creator>xdemocle</dc:creator>
+      <link>https://linkedgrow.online/micro-tip-36</link>
+      <guid>https://linkedgrow.online/micro-tip-36</guid>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <description><![CDATA[
+        <h2>Pin a Job-Seeking Post if You're Looking</h2>
+        <p>If you're hunting for a job, say it clearly in a post. Then pin it to the top of your profile.</p>
+        <p>Write a short post about what you're looking for. Be specific about roles, industries, locations. Ask your network for intros or leads. Pin it so anyone visiting your profile sees it first.</p>
+        <p>Your network can't help if they don't know you need help. Recruiters do this when they're looking for candidates. Sales people do it when they need leads. You're just being clear about what you want. That's not desperate. That's smart.</p>
+      ]]></description>
     </item>
-
   </channel>
 </rss>
